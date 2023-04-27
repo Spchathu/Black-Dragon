@@ -14,17 +14,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94761091578'] //ur owner number
+global.owner = ['94766969406'] //ur owner number
 global.ownername = "Mihiruk Official" //ur owner name
 global.ytname = "YT: Spchathu Official" //ur yt chanel name
 global.socialm = "GitHub: nimaofficial" //ur github or insta name
 global.location = "Sri Lanka, Colombo" //ur location
 
 //bot bomdy 
-global.ownernomer = "94761091578" //ur number
-global.premium = ['94761091578'] //ur premium number
-global.botname = 'BLACK DRAGON MIHIRUK' //ur bot name
-global.linkz = "https://chat.whatsapp.com/FjueddrQNAb6O4ZPzQALsE" //your theme url which will be displayed on whatsapp
+global.ownernomer = "94766969406" //ur number
+global.premium = ['94766969406'] //ur premium number
+global.botname = 'BLACK DRAGON MD' //ur bot name
+global.linkz = "https://chat.whatsapp.com/DnV6xitooDlDz2YXLrIWqv" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
